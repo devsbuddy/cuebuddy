@@ -6,5 +6,5 @@ import react from "@vitejs/plugin-react";
 // (a user/org site, repo named <username>.github.io), set base to '/'.
 export default defineConfig({
   plugins: [react()],
-  base: "/teleprompter/",
+  base: "/teleprompter",
 });

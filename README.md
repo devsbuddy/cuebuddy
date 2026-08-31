@@ -1,4 +1,4 @@
-# Autocue — a minimal teleprompter web app
+# CueBuddy — a minimal teleprompter web app
 
 React + Vite + Firebase (Auth + Firestore), built to host on GitHub Pages.
 
@@ -28,6 +28,7 @@ React + Vite + Firebase (Auth + Firestore), built to host on GitHub Pages.
 ```bash
 cp .env.example .env
 ```
+
 Fill in `.env` with the six values from step 1.4. Then:
 
 ```bash

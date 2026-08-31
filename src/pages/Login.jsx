@@ -23,7 +23,7 @@ export default function Login() {
     <div className="login-stage">
       <div className="login-panel">
         <span className="tally" />
-        <h1>Autocue</h1>
+        <h1>CueBuddy</h1>
         <p>
           A minimal teleprompter for scripts you write once and read many times.
         </p>
